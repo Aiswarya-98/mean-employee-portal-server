@@ -39,6 +39,55 @@
       "email": "adhithya@gmail.com",
       "status": "active",
       "id": "sqdpFxt"
+    },
+    {
+      "empId": "emp004",
+      "name": "helen",
+      "email": "helen@gmail.com",
+      "status": "inactive",
+      "id": "QiJR2pC"
+    },
+    {
+      "empId": "emp006",
+      "name": "aiswarya",
+      "email": "aiswarya@gmail.com",
+      "status": "active",
+      "id": "Hp4ybOf"
+    },
+    {
+      "empId": "emp007",
+      "name": "arjun",
+      "email": "arjun@gmail.com",
+      "status": "inactive",
+      "id": "6rop8wb"
+    },
+    {
+      "empId": "emp008",
+      "name": "Anagha",
+      "email": "anagha@gmail.com",
+      "status": "inactive",
+      "id": "QgvhgzO"
+    },
+    {
+      "empId": "emp009",
+      "name": "jisha",
+      "email": "jisha@gmail.com",
+      "status": "active",
+      "id": "iASCB8F"
+    },
+    {
+      "empId": "emp0010",
+      "name": "leo",
+      "email": "leo@gmail.com",
+      "status": "active",
+      "id": "vvaeHqm"
+    },
+    {
+      "empId": "emp001",
+      "name": "sherry",
+      "email": "sherry@gmail.comx",
+      "status": "active",
+      "id": "DJZVKnu"
     }
   ]
 }
