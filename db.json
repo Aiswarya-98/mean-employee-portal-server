@@ -20,13 +20,6 @@
       "id": "ZaHWD69"
     },
     {
-      "empId": "emp002",
-      "name": "hiya",
-      "email": "hiya@gmail.com",
-      "status": "active",
-      "id": "KH_l12t"
-    },
-    {
       "empId": "emp003",
       "name": "lucy",
       "email": "lucy@gmail.com",
@@ -49,7 +42,7 @@
     },
     {
       "empId": "emp006",
-      "name": "aiswarya",
+      "name": "aiswaryashaji",
       "email": "aiswarya@gmail.com",
       "status": "active",
       "id": "Hp4ybOf"
